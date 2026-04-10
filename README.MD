@@ -1,4 +1,4 @@
-# 🛒 Zepto Product Analytics — SQL Case Study
+ # 🛒 Zepto Product Analytics — SQL Case Study
 
 > **Analysing 3,700+ SKUs across 14 product categories to uncover pricing gaps,
 > inventory risk, and revenue opportunities for a quick-commerce platform**
