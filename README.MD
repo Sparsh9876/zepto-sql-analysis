@@ -14,7 +14,7 @@
 
 Zepto operates a 10-minute grocery delivery model where **pricing accuracy,
 discount strategy, and stock availability directly impact revenue**.
-This project analyses their product catalogue to answer 8 business questions
+This project analyses their product catalogue to answer 10 business questions
 that a Category Manager or Growth Analyst would face on day one.
 
 ---
