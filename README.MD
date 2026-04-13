@@ -120,7 +120,7 @@ GROUP BY wallet_tier
 ORDER BY avg_balance DESC;
 ```
 
----
+--- 
 
 ### Q3 — QUERY 3: Churn cohorts (30/60/90 days) ───
 > *How many users are at each inactivity stage?--Concept: CASE WHEN on numeric column*
